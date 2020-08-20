@@ -46,4 +46,3 @@ Este reto pertenece a la lista de retos de [Frontend Mentor](https://www.fronten
 =======
 # landing-page
 Huddle landing page with single introductory section
->>>>>>> 6f6de53edb547a79f5e7815159818d8cea2d8d5c
