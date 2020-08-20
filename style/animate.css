@@ -1,0 +1,16 @@
+header,
+main {
+   -webkit-animation: fadein 1.3s;
+   -moz-animation: fadein 1.3s; 
+   -ms-animation: fadein 1.3s; 
+   -o-animation: fadein 1.3s;  
+   animation: fadein 1.3s;
+}
+.icons {
+   -webkit-animation: fadein 3s;
+   -moz-animation: fadein 3s; 
+   -ms-animation: fadein 3s; 
+   -o-animation: fadein 3s;  
+   animation: fadein 3s;
+}
+@keyframes fadein { from { opacity: 0; } to { opacity: 1; } }

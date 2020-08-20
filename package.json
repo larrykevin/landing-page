@@ -1,0 +1,15 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "Reto Platzi #1 html y css",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Larry Kevin <larry.kevin.c.c@gmail.com>",
+  "license": "MIT"
+}
