@@ -4,7 +4,7 @@ body {
    font-size: 16px;
    color: #ffffffcc;
    background-color: #674baf;
-   background-image: url('images/bg-desktop.svg');
+   background-image: url('../images/bg-desktop.svg');
    background-repeat: no-repeat;
    background-position-x: center;
    background-size: cover;
@@ -105,14 +105,14 @@ main {
 
 @media screen and (min-width: 1440px) {
    body {
-      background-image: url('images/bg-desktop.svg');
+      background-image: url('../images/bg-desktop.svg');
       width: 1440px;
       transition: 0.1s;
    }
 }
 @media screen and (max-width: 1439px) {
    body {
-      background-image: url('images/bg-desktop.svg');
+      background-image: url('../images/bg-desktop.svg');
       background-position: center;
       background-size: cover;
       transition: 0.1s;
@@ -130,7 +130,7 @@ main {
 @media screen and (max-width: 768px) {
    body {
       font-size: 0.9rem;
-      background-image: url('images/bg-mobile.svg');
+      background-image: url('../images/bg-mobile.svg');
       background-size: cover;
       background-repeat: no-repeat;
       transition: 0.1s;
@@ -163,7 +163,7 @@ main {
 @media screen and (max-width: 426px) {
    body {
       font-size: 0.9rem;
-      background-image: url('images/bg-mobile.svg');
+      background-image: url('../images/bg-mobile.svg');
       background-repeat: no-repeat;
       background-position-y: -14px;
       background-size: contain;
@@ -209,7 +209,7 @@ main {
 @media screen and (max-width: 375px) {
    body {
       font-size: 0.9rem;
-      background-image: url('images/bg-mobile.svg');
+      background-image: url('../images/bg-mobile.svg');
       background-repeat: no-repeat;
       background-position-y: -15px;
       background-size: contain;
